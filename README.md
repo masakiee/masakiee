@@ -39,6 +39,3 @@ across various platforms and technologies.
 
 - Android and iOS application development by React Native
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masakiee&show_icons=true&theme=default)
